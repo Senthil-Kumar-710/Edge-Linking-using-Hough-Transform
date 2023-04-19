@@ -48,11 +48,12 @@ cv2.destroyAllWindows()
 
 ### Grayscale image
 
-![bankai1](https://user-images.githubusercontent.com/93860256/233029011-fe08911a-1d41-4bd9-b737-9d07ea795354.png)
+![bankai2](https://user-images.githubusercontent.com/93860256/233028995-0d5d103f-e6be-4a13-9206-c42fa4f72c8e.png)
+
 
 ### Hough transform
 
-![bankai2](https://user-images.githubusercontent.com/93860256/233028995-0d5d103f-e6be-4a13-9206-c42fa4f72c8e.png)
+![bankai1](https://user-images.githubusercontent.com/93860256/233029011-fe08911a-1d41-4bd9-b737-9d07ea795354.png)
 
 
 ## Result:
